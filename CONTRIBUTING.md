@@ -4,7 +4,6 @@ Acest proiect este spațiul comun pentru dezvoltare și verificarea progresului.
 
 ## Începerea lucrului
 
-- Proprietarul invită contul GitHub al lui Cristian cu acces Write. Cristian acceptă invitația.
 - Înainte de implementare, Cristian descrie într-un Issue prima etapă, tehnologiile propuse și rezultatul demonstrabil. Proprietarul confirmă cerințele.
 - Cristian adaugă codul existent sau inițializează aplicația într-o ramură separată, cu instrucțiuni pentru instalare, pornire și testare.
 
