@@ -1,6 +1,6 @@
 # Cerințe de confirmat înainte de implementare
 
-Acesta este un formular de decizie, nu o specificație aprobată.
+Cristian, vreau să clarificăm punctele de mai jos înainte să începem implementarea. Acesta este un formular de decizie, nu o specificație aprobată.
 
 | Subiect | Decizie |
 | --- | --- |
@@ -25,4 +25,4 @@ Orice cerință de conformitate sau afirmație despre siguranța la incendiu nec
 
 ## Jurnal de decizii
 
-Pentru fiecare decizie, adăugați data, opțiunea aleasă, motivul și linkul către Issue-ul cu confirmarea proprietarului.
+Pentru fiecare decizie, adăugați data, opțiunea aleasă, motivul și linkul către Issue-ul cu confirmarea mea.

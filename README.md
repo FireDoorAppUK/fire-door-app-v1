@@ -1,10 +1,11 @@
 # Fire Door App
 
-Spațiul de lucru pentru dezvoltarea aplicației și verificarea rezultatelor de către proprietar.
+Cristian, aici vom organiza dezvoltarea aplicației, sarcinile și verificarea rezultatelor. Vreau să pot urmări progresul și să încerc fiecare etapă demonstrabilă.
 
 ## Începe aici
 
 - [Ghid pentru Cristian](docs/ONBOARDING.md)
+- [Întrebări pentru pornirea proiectului](docs/KICKOFF_QUESTIONS.md)
 - [Cum lucrăm](CONTRIBUTING.md)
 - [Tabloul de control al proprietarului](docs/OWNER_GUIDE.md)
 - [Cerințe și decizii de confirmat](docs/PROJECT_BRIEF.md)
