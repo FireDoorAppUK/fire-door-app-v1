@@ -1,0 +1,12 @@
+# Configurări locale cu secrete
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Fișiere locale ale sistemului
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Extindeți cu fișierele generate de tehnologiile alese la inițializarea aplicației.
